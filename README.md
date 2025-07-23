@@ -20,7 +20,7 @@ Distribución de Churn:¿Qué es Churn?
 Churn (o tasa de abandono) es un término clave en el análisis de negocios, y se refiere a la pérdida de clientes  
 que dejan de usar los productos o servicios de una empresa. En el contexto de Telecom X, el churn representa a  
 los clientes que cancelan sus suscripciones o contratos.  
-Ta = Churn Rate = (N° de clientes perdidos en un período) / (Total de clientes al inicio del período) × 100  
+Ta = Churn Rate = ((N° de clientes perdidos en un período) / (Total de clientes al inicio del período)) × 100  
 
 # **Sobre la estructura del proyecto y organización de los archivos:**  
 El proyecto se creó en etapas:  

@@ -22,7 +22,7 @@ que dejan de usar los productos o servicios de una empresa. En el contexto de Te
 los clientes que cancelan sus suscripciones o contratos.  
 Ta = Churn Rate = (N° de clientes perdidos en un período) / (Total de clientes al inicio del período) × 100  
 
-**Sobre la estructura del proyecto y organización de los archivos:**  
+# **Sobre la estructura del proyecto y organización de los archivos:**  
 El proyecto se creó en etapas:  
 
 ## 1.- Extracción  

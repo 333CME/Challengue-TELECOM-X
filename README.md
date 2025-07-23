@@ -38,14 +38,14 @@ Ta = Churn Rate = (N° de clientes perdidos en un período) / (Total de clientes
 
 Sobre la estructura del proyecto y organización de los archivos:
 El proyecto se creó en etapas:
-1.- Extracción 
+##########1.- Extracción 
 Contiene la forma en que se extraen los datos desde la API, y las primeras intervenciones para extender las columnas anidadas.
-2.- Transformación 
+##########2.- Transformación 
 Son todos los comandos utlizados para transformar los datos y depurarlos para ser posteriormente trabajados.
 Se realiza la normalización y estandarización
-3.- Carga y análisis 
+##########3.- Carga y análisis 
 En base a los datos normalizados y entandarizados se realizan análisis previos mostrando gráficos que permiten visualizar diferencias entre las variables y su relación con la variable clave que es churn. esta variable representa el abandono del servicio por parte de los clientes.
-4.- Informe final Challengue Telecomx en formato pdf
+##########4.- Informe final Challengue Telecomx en formato pdf
 Este informe es clave para entender el trabajo total efectuado con Python, y donde además de los gráficos, se muestran algunas conjeturas, hallazgos, observaciones, y recomendaciones.
 Los análisis realizados son de caracter preliminar, ya que se entiende que el desafío era enviar datos depurados a un equipo de análisis de datos. debido a esto se considera que este análsis debe ser somero y basado en estadística descriptiva. Además este análisisprevio permitió evaluar si los datos estaban suficiente trabajados, para poder realizar análisis. 
 

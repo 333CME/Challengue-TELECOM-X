@@ -1,5 +1,5 @@
 # Challengue-TELECOM-X
-**PROPÓSITO DEL ANÁLISIS**
+**PROPÓSITO DEL ANÁLISIS**  
 El objetivo de este proyecto es: Investigar las causas detrás de la evasión de clientes (Churn)  
 en una empresa de telecomunicaciones. Mediante el análisis de datos proporcionados a través de  
 una API en formato JSON, se buscará:  

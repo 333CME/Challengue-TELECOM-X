@@ -8,7 +8,7 @@ una API en formato JSON, se buscará:
 - Preparar los datos para futuros análisis predictivos realizados por el equipo de ciencia de datos
 - Generar la estructura del proyecto y organizar los archivos.
 - Mostrar la información en gráficos y tablas.
-- Ejecutar la depuración y el ordenamiento de los datos en un notebook GoogleColab.
+- Ejecutar la depuración y el ordenamiento de los datos en un notebook GoogleColab.  
 **ESTRUCTURA INICIAL DEL PROYECTO**  
 # Readme  
 # Datos crudos obtenidos de la API  
